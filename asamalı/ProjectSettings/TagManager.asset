@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - alan
+  - degecekyer
+  - "yanl\u0131s"
+  - dogru
+  - yokus
+  - kopru
+  - taban
+  - toplar
+  - "d\xFCsecek"
+  - "\xF6d\xFCl"
+  - bitis
+  - "d\xFCsen5"
+  - Target
+  - bomba
+  - kare
+  - kntrl
+  - kalp
+  - yer
+  - top-duracak
+  - kupleri_acicak
+  - "ac\u0131l\u0131cak_kupler"
+  - balta
+  - atestopu
+  - el
+  - "panelt\u0131klanmaz"
+  - sonyer
+  - "\xF6lme"
+  - deneme
+  - deneme2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - etkili
+  - "bas\u0131lacakalan"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
