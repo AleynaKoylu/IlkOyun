@@ -4,8 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 public class küpkontrol : MonoBehaviour
 {
-    bool dy=false;
-    bool dy2=false;
+  
     public GameObject yer;
     public Image yeniden;
     public GameObject kaybolacak;
